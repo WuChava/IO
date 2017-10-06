@@ -1,0 +1,2 @@
+void MMIO_XB() {
+}
