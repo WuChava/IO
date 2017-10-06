@@ -1,2 +1,2 @@
-void Main() {
+void MMIO() {
 }
