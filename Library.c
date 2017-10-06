@@ -1,2 +1,2 @@
-void MMIO() {
+void MMIO_XB() {
 }
